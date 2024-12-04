@@ -1,0 +1,126 @@
+[
+    {
+        "name": "A",
+        "isExternal": false,
+        "spec": [
+            {
+                "name": "Cost Of Ownership",
+                "isFixed": false,
+                "isFaas": false,
+                "price": 10,
+                "noOfIteration": 0,
+                "iterationCost": 0,
+                "monthlyCost": 0,
+                "fixedCost": 0
+            },
+            {
+                "name": "Application",
+                "isFixed": false,
+                "isFaas": true,
+                "price": 20,
+                "noOfIteration": 2,
+                "iterationCost": 0,
+                "monthlyCost": 0,
+                "fixedCost": 0
+            },
+            {
+                "name": "Development",
+                "isFixed": true,
+                "isFaas": true,
+                "price": 30,
+                "noOfIteration": 0,
+                "iterationCost": 0,
+                "monthlyCost": 0,
+                "fixedCost": 0
+            }
+        ]
+    },
+    {
+        "name": "B",
+        "isExternal": false,
+        "spec": [
+            {
+                "name": "Testing",
+                "isFixed": false,
+                "isFaas": true,
+                "price": 30,
+                "noOfIteration": 3,
+                "iterationCost": 0,
+                "monthlyCost": 0,
+                "fixedCost": 0
+            },
+            {
+                "name": "License",
+                "isFixed": false,
+                "isFaas": false,
+                "price": 45,
+                "noOfIteration": 0,
+                "iterationCost": 0,
+                "monthlyCost": 0,
+                "fixedCost": 0
+            },
+            {
+                "name": "Training",
+                "isFixed": true,
+                "isFaas": true,
+                "price": 10,
+                "noOfIteration": 0,
+                "iterationCost": 0,
+                "monthlyCost": 0,
+                "fixedCost": 0
+            }
+        ]
+    },
+    {
+        "name": "C",
+        "isExternal": false,
+        "spec": [
+            {
+                "name": "Data transfer",
+                "isFixed": false,
+                "isFaas": false,
+                "price": 10,
+                "noOfIteration": 0,
+                "iterationCost": 0,
+                "monthlyCost": 0,
+                "fixedCost": 0
+            },
+            {
+                "name": "Hardware",
+                "isFixed": false,
+                "isFaas": false,
+                "price": 10,
+                "noOfIteration": 0,
+                "iterationCost": 0,
+                "monthlyCost": 0,
+                "fixedCost": 0
+            }
+        ]
+    },
+    {
+        "name": "D",
+        "isExternal": true,
+        "spec": [
+            {
+                "name": "Data storage",
+                "isFixed": false,
+                "isFaas": false,
+                "price": 20,
+                "noOfIteration": 0,
+                "iterationCost": 0,
+                "monthlyCost": 0,
+                "fixedCost": 0
+            },
+            {
+                "name": "Container instances",
+                "isFixed": false,
+                "isFaas": false,
+                "price": 10,
+                "noOfIteration": 0,
+                "iterationCost": 0,
+                "monthlyCost": 0,
+                "fixedCost": 0
+            }
+        ]
+    }
+]
